@@ -304,6 +304,8 @@ OAID 是移动智能终端补充设备标识体系中的一员，官方定义为
 
 ## 许可协议
 
+**批评一下**：有些小伙伴将本项目封装成[UniApp的收费插件](https://ext.dcloud.net.cn/search?q=OAID)进行盈利性目的，不注明或告知用户是基于【开源、免费】的`Android_CN_OAID`二次开发的，违背了本项目【免费、普惠】的初衷，有点不厚道。
+
 ```text
 Copyright (c) 2016-present. gzu-liyujiang<1032694760@qq.com> and All Contributors.
 
